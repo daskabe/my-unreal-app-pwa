@@ -13,7 +13,7 @@ import {
 } from "@vis.gl/react-google-maps";
 
 const API_KEY =
-  globalThis.GOOGLE_MAPS_API_KEY ?? "AIzaSyBSJCdEbF2aVHSUXlrRsZbEXI8IXG1Npno";
+  globalThis.GOOGLE_MAPS_API_KEY ?? "";
 
 const App = ({onPlaceSelect}) => {
   const [selectedPlace, setSelectedPlace] =
