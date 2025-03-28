@@ -1,0 +1,32 @@
+{
+  "id": "/",
+  "short_name": "KC-VIP",
+  "name": "KC-VIP app",
+  "description":"A test app",
+  "icons": [
+    {
+      "src": "/logo.png",
+      "sizes": "600x600",
+      "type": "image/png"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "/screen.png",
+      "sizes": "430x884",
+      "type": "image/png",
+      "label": "Wonder Widgets"
+    },
+    {
+      "src": "/screen.png",
+      "sizes": "430x884",
+      "type": "image/png",
+      "form_factor":"wide",
+      "label": "Wonder Widgets"
+    }
+  ],
+  "start_url": "/sdsdfdfdfdfd",
+  "display": "standalone",
+  "theme_color": "#1a1a1a",
+  "background_color": "#1a1a1a"
+}
